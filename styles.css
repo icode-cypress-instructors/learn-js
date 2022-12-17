@@ -1,0 +1,15 @@
+
+.num{
+    font-size: 100px;
+    text-align: center;
+}
+
+.c,.c2,.c3,.c4{
+    background-color: black;
+    border-radius: 100px;
+}
+
+div{
+    display:flex;
+    justify-content:space-around;
+}
